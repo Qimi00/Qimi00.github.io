@@ -1,0 +1,6 @@
+Prohlížeč: Google nebo Brave
+
+Odkaz na webovku:https://qimi00.github.io/
+
+Validátor píše u html error v řádku který mi dá font který používám. Rád bych poprosil o ignoraci tohoto erroru,
+jelikož nechci ničit něco co mi dal přímo google.
